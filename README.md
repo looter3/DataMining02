@@ -2,7 +2,7 @@
 
 ## 012_Markdown_Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/
-DataMining02/blob/main/Esercitazione02/012_Markdown_Colab.ipynb)
+DataMining02/blob/main/Esercitazione03/012_Markdown_Colab.ipynb)
 
 ## 013_Classi_easy
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/
