@@ -1,6 +1,4 @@
 # DataMining02
-## 011_intro
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Data-Mining01/blob/main/Esercitazione02/011_intro.ipynb)
 
 ## 012_Markdown_Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Data-Mining01/blob/main/Esercitazione02/012_Markdown_Colab.ipynb)
